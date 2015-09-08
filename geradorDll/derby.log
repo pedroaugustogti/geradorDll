@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Sep 08 14:05:54 BRT 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-014f-adeb-c601-000002c59ba8 
+on database directory memory:C:\ambiente_desenvolvimento\exemplos\geradorDll\geradorDll\sampleJPALoadScriptSourceDB with class loader sun.misc.Launcher$AppClassLoader@4de5ed7b 
+Loaded from file:/C:/Users/Pedro%20Augusto/.m2/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_80-ea-b05
+user.dir=C:\ambiente_desenvolvimento\exemplos\geradorDll\geradorDll
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
